@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankApp", "ConsoleApp2\bankApp.csproj", "{61C10582-63B7-4AB8-B593-1F4BB8A5EB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankLib", "bankLib\bankLib.csproj", "{10014A4D-F109-4619-B0ED-82AE3255C6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingTest", "BankingTest\BankingTest.csproj", "{E04A0435-BA36-4D22-8461-6EEAE5EC1BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C10582-63B7-4AB8-B593-1F4BB8A5EB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C10582-63B7-4AB8-B593-1F4BB8A5EB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C10582-63B7-4AB8-B593-1F4BB8A5EB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C10582-63B7-4AB8-B593-1F4BB8A5EB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10014A4D-F109-4619-B0ED-82AE3255C6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10014A4D-F109-4619-B0ED-82AE3255C6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10014A4D-F109-4619-B0ED-82AE3255C6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10014A4D-F109-4619-B0ED-82AE3255C6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04A0435-BA36-4D22-8461-6EEAE5EC1BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04A0435-BA36-4D22-8461-6EEAE5EC1BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04A0435-BA36-4D22-8461-6EEAE5EC1BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04A0435-BA36-4D22-8461-6EEAE5EC1BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C62CB1-D274-4BDC-B39C-8A9BCD3304E3}
+	EndGlobalSection
+EndGlobal
